@@ -1,1 +1,1 @@
-# configure-ad
+configure ad
