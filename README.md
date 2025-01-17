@@ -110,7 +110,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
   Restart and then log back into DC-1 as user: myadproject.com\labuser:
 </p>
 <p>
-  <img src="https://i.imgur.com/7UakWMQ.png" height="75%" width="100%" alt="fqdn login"/>
 </p>
 <br />
 <br />
@@ -139,7 +138,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
   Log out/close the Remote Desktop connection to DC-1 and log back in as “myadproject.com\jane_admin”. Use jane_admin as your admin account from now on:
 </p>
 <p>
-  <img src="https://i.imgur.com/xWZ4Kol.png" height="75%" width="100%" alt="admin login"/>
 </p>
 <br />
 <br />
