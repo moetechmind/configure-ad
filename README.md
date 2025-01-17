@@ -218,7 +218,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
   <img src="https://i.imgur.com/ZZCfiCp.png" height="75%" width="100%" alt="employee user accounts"/>
-  <img src="https://i.imgur.com/7gBpNzN.png" height="75%" width="100%" alt="employee user selection"/>
   <img src="https://i.imgur.com/cqsddjn.png" height="75%" width="100%" alt="employee user login"/>
 </p>
 <br />
